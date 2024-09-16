@@ -1,0 +1,256 @@
+Temperature: K,Heat capacity at constant pressure Cp: J/K/mol,Uncertainty,Pressure,Ref Temp,Data Set ID,State,Representation,Method,Description,Purity,Purity Units,Year
+30.0,0.0,0.0,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+42.0,0.0,0.0,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+88.0,0.12552,0.0050208,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+92.0,0.12552,0.0050208,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+205.0,2.59408,0.103763,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+209.0,2.76144,0.110458,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+220.0,3.01248,0.120499,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+222.0,3.17984,0.127194,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+232.0,3.59824,0.14393,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+243.0,3.9748,0.158992,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+262.0,4.76976,0.19079,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+284.0,5.6484,0.225936,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+306.0,6.61072,0.264429,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+331.0,7.69856,0.307942,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+358.0,8.87008,0.354803,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+418.0,11.1294,0.445178,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+1169.0,22.8028,2.092,None kPa,N/A,907,['C'],A,not stated,not stated,,,1912
+671.15,28.4512,0.284512,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+698.15,30.5014,0.305014,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+723.15,32.4678,0.324678,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+748.15,34.518,0.34518,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+773.15,36.61,0.3661,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+798.15,38.7857,0.387857,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+823.15,41.0032,0.410032,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+848.15,43.2626,0.432626,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+873.15,45.6056,0.456056,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+898.15,47.9905,0.479905,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+923.15,50.459,0.50459,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+948.15,52.9694,0.529694,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+973.15,55.5635,0.555635,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+998.15,58.2413,0.582413,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1023.15,60.9609,0.609609,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1048.15,63.7223,0.637223,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1073.15,66.5674,0.665674,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1098.15,69.4962,0.694962,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1123.15,72.4669,0.724669,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1148.15,75.5212,0.755212,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1173.15,78.6174,0.786174,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1180.15,79.496,0.79496,None kPa,N/A,2342,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1926
+1496.9,23.871,0.71613,1.33322e-06 kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1596.6,25.433,0.76299,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1598.6,25.611,0.76833,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1697.6,25.695,0.77085,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1699.9,25.717,0.77151,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1795.9,26.2,0.786,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1797.1,26.053,0.78159,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1896.6,26.403,0.79209,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1897.1,26.49,0.7947,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1897.2,26.479,0.79437,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1995.9,26.774,0.80322,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1996.6,26.838,0.80514,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2096.8,27.071,0.81213,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2098.1,27.055,0.81165,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2196.0,27.5,0.825,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2197.0,27.483,0.82449,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2297.0,27.762,0.83286,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2297.5,27.734,0.83202,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2394.2,28.181,0.84543,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2395.3,28.164,0.84492,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2496.1,28.58,0.8574,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2597.7,28.802,0.86406,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2598.1,28.786,0.86358,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2695.1,29.235,0.87705,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2696.7,29.107,0.87321,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2795.4,29.561,0.88683,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2796.3,29.684,0.89052,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2896.0,30.217,0.90651,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2896.5,30.121,0.90363,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2993.7,30.494,0.91482,None kPa,N/A,21952,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1497.09,23.957,0.71871,1.33322e-06 kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1497.49,23.756,0.71268,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1596.08,24.232,0.72696,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1597.27,23.987,0.71961,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1696.67,24.155,0.72465,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1697.72,24.397,0.73191,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1796.54,24.306,0.72918,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1797.89,24.595,0.73785,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1896.96,24.356,0.73068,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1897.44,24.637,0.73911,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1994.95,24.711,0.74133,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1996.36,24.893,0.74679,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2095.74,24.864,0.74592,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2098.92,24.62,0.7386,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2197.36,25.134,0.75402,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2197.8,24.916,0.74748,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2297.37,24.984,0.74952,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2297.55,25.226,0.75678,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2397.92,25.318,0.75954,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2399.96,25.18,0.7554,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2498.24,25.487,0.76461,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2499.69,25.39,0.7617,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2598.76,25.655,0.76965,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2599.15,25.756,0.77268,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2698.75,25.677,0.77031,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2700.64,25.81,0.7743,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2799.31,25.907,0.77721,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2799.55,26.038,0.78114,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2897.96,26.185,0.78555,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2900.14,26.227,0.78681,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2999.03,26.496,0.79488,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2999.41,26.388,0.79164,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1496.99,23.7767,0.7133,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1596.35,24.1824,0.725472,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1698.16,23.9553,0.718659,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1797.2,24.4846,0.734539,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1897.62,24.437,0.73311,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+1998.3,24.6751,0.740253,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2098.82,24.6714,0.740143,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2199.23,24.8585,0.745755,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2297.96,25.1167,0.7535,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2400.41,25.0607,0.751821,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2497.96,25.2969,0.758907,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2599.81,25.4923,0.76477,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2699.55,25.5251,0.765754,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2802.22,25.7055,0.771164,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+2900.63,25.9209,0.777627,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+3002.68,26.1845,0.785534,None kPa,N/A,21953,['C'],A,Resistive pulse heating - millisecond,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1975
+3000.0,27.25,1.9075,65000 kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3020.0,27.26,1.9082,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3040.0,27.28,1.9096,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3060.0,27.3,1.911,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3080.0,27.32,1.9124,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3100.0,27.34,1.9138,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3120.0,27.37,1.9159,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3140.0,27.4,1.918,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3160.0,27.43,1.9201,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3180.0,27.47,1.9229,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3200.0,27.51,1.9257,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3220.0,27.55,1.9285,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3240.0,27.59,1.9313,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3260.0,27.64,1.9348,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3280.0,27.69,1.9383,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3300.0,27.74,1.9418,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3320.0,27.8,1.946,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3340.0,27.86,1.9502,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3360.0,27.92,1.9544,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3380.0,27.98,1.9586,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3400.0,28.05,1.9635,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3420.0,28.12,1.9684,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3440.0,28.2,1.974,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3460.0,28.27,1.9789,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3480.0,28.35,1.9845,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3500.0,28.43,1.9901,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3520.0,28.52,1.9964,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3540.0,28.61,2.0027,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3560.0,28.7,2.009,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3580.0,28.79,2.0153,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3600.0,28.89,2.0223,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3620.0,28.98,2.0286,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3640.0,29.09,2.0363,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3660.0,29.19,2.0433,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3680.0,29.3,2.051,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3700.0,29.41,2.0587,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3720.0,29.52,2.0664,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3740.0,29.64,2.0748,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3760.0,29.76,2.0832,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3780.0,29.88,2.0916,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3800.0,30.01,2.1007,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3820.0,30.14,2.1098,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3840.0,30.27,2.1189,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3860.0,30.4,2.128,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3880.0,30.54,2.1378,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3900.0,30.68,2.1476,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3920.0,30.82,2.1574,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3940.0,30.97,2.1679,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3960.0,31.11,2.1777,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3980.0,31.27,2.1889,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4000.0,31.42,2.1994,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4020.0,31.58,2.2106,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4040.0,31.74,2.2218,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4060.0,31.9,2.233,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4080.0,32.07,2.2449,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4100.0,32.23,2.2561,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4120.0,32.41,2.2687,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4140.0,32.58,2.2806,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4160.0,32.76,2.2932,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4180.0,32.94,2.3058,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4200.0,33.12,2.3184,None kPa,N/A,25139,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3000.0,27.23,1.9061,65000 kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3020.0,27.3,1.911,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3040.0,27.37,1.9159,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3060.0,27.44,1.9208,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3080.0,27.51,1.9257,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3100.0,27.58,1.9306,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3120.0,27.65,1.9355,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3140.0,27.72,1.9404,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3160.0,27.79,1.9453,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3180.0,27.86,1.9502,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3200.0,27.93,1.9551,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3220.0,28.0,1.96,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3240.0,28.07,1.9649,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3260.0,28.14,1.9698,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3280.0,28.21,1.9747,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3300.0,28.28,1.9796,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3320.0,28.35,1.9845,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3340.0,28.42,1.9894,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3360.0,28.49,1.9943,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3380.0,28.56,1.9992,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3400.0,28.63,2.0041,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3420.0,28.7,2.009,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3440.0,28.77,2.0139,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3460.0,28.84,2.0188,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3480.0,28.91,2.0237,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3500.0,28.99,2.0293,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3520.0,29.06,2.0342,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3540.0,29.13,2.0391,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3560.0,29.2,2.044,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3580.0,29.27,2.0489,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3600.0,29.34,2.0538,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3620.0,29.41,2.0587,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3640.0,29.48,2.0636,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3660.0,29.55,2.0685,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3680.0,29.62,2.0734,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3700.0,29.69,2.0783,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3720.0,29.76,2.0832,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3740.0,29.83,2.0881,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3760.0,29.9,2.093,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3780.0,29.97,2.0979,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3800.0,30.04,2.1028,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3820.0,30.11,2.1077,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3840.0,30.18,2.1126,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3860.0,30.25,2.1175,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3880.0,30.32,2.1224,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3900.0,30.39,2.1273,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3920.0,30.46,2.1322,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3940.0,30.53,2.1371,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3960.0,30.6,2.142,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+3980.0,30.67,2.1469,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4000.0,30.74,2.1518,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4020.0,30.81,2.1567,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4040.0,30.88,2.1616,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4060.0,30.95,2.1665,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4080.0,31.02,2.1714,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4100.0,31.09,2.1763,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4120.0,31.16,2.1812,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4140.0,31.23,2.1861,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4160.0,31.3,2.191,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4180.0,31.37,2.1959,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+4200.0,31.44,2.2008,None kPa,N/A,25140,['C'],A,Resistive pulse heating - millisecond,not stated,,,1987
+1500.0,24.14,0.7242,1.33322e-06 kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+1600.0,24.38,0.7314,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+1700.0,24.61,0.7383,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+1800.0,24.83,0.7449,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+1900.0,25.03,0.7509,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2000.0,25.22,0.7566,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2100.0,25.41,0.7623,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2200.0,25.57,0.7671,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2300.0,25.73,0.7719,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2400.0,25.88,0.7764,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2500.0,26.01,0.7803,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2600.0,26.13,0.7839,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2700.0,26.24,0.7872,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2800.0,26.34,0.7902,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+2900.0,26.43,0.7929,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973
+3000.0,26.5,0.795,None kPa,N/A,20959,['C'],A,Resistive pulse heating - millisecond,"not stated,99.99 % (total),",99.99,Not Specified %,1973

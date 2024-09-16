@@ -1,0 +1,460 @@
+Temperature: K,Heat capacity at constant pressure Cp: J/K/mol,Uncertainty,Pressure,Ref Temp,Data Set ID,State,Representation,Method,Description,Purity,Purity Units,Year
+74.9,12.1336,0.121336,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+78.3,12.6775,0.126775,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+83.5,13.9327,0.139327,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+92.1,15.1042,0.151042,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+101.5,16.6942,0.166942,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+114.5,18.7025,0.187025,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+115.8,18.577,0.18577,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+132.7,19.9577,0.199577,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+155.2,21.2547,0.212547,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+172.4,22.217,0.22217,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+192.6,23.2212,0.232212,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+220.0,24.3509,0.243509,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+237.3,24.3927,0.243927,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+253.5,25.0203,0.250203,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+255.2,24.5182,0.245182,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+288.5,25.5642,0.255642,None kPa,N/A,1394,['C'],A,Vacuum adiabatic calorimetry,"not stated,98 % (total),estimated by the compiler",98.0,Not Specified %,1918
+373.15,26.1918,0.261918,None kPa,N/A,1929,['C'],A,Drop calorimetry,"origin: commercial source,99.8 % (total),,rod",99.8,Not Specified %,1924
+473.15,27.2797,0.272797,None kPa,N/A,1929,['C'],A,Drop calorimetry,"origin: commercial source,99.8 % (total),,rod",99.8,Not Specified %,1924
+573.15,28.3675,0.283675,None kPa,N/A,1929,['C'],A,Drop calorimetry,"origin: commercial source,99.8 % (total),,rod",99.8,Not Specified %,1924
+673.15,29.4554,0.294554,None kPa,N/A,1929,['C'],A,Drop calorimetry,"origin: commercial source,99.8 % (total),,rod",99.8,Not Specified %,1924
+773.15,30.5432,0.305432,None kPa,N/A,1929,['C'],A,Drop calorimetry,"origin: commercial source,99.8 % (total),,rod",99.8,Not Specified %,1924
+873.15,31.6729,0.316729,None kPa,N/A,1929,['C'],A,Drop calorimetry,"origin: commercial source,99.8 % (total),,rod",99.8,Not Specified %,1924
+343.15,27.5726,1.37863,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+343.15,27.9073,1.39536,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+430.15,27.5726,1.37863,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+373.15,27.9491,1.39746,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+374.15,27.7399,1.387,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+374.15,27.4889,1.37444,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+374.15,27.447,1.37235,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+376.15,27.5307,1.37654,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+376.15,27.6144,1.38072,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+375.15,27.6144,1.38072,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+376.15,27.991,1.39955,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+376.15,27.8236,1.39118,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+376.15,27.8654,1.39327,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+376.15,27.8654,1.39327,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+416.15,27.6562,1.38281,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+416.15,27.8236,1.39118,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+314.15,27.8654,1.39327,None kPa,N/A,2492,['C'],A,Adiabatic calorimeter (non-vacuum) ,not stated,,,1927
+11.31,0.054392,0.0008368,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+11.43,0.054392,0.0008368,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+14.14,0.108784,0.00163176,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+14.28,0.117152,0.00175728,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+16.94,0.205016,0.00309616,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+17.24,0.213384,0.00322168,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+19.5,0.3138,0.00472792,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+19.64,0.305432,0.0046024,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+21.7,0.468608,0.0037656,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+24.3,0.707096,0.0056484,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+27.1,1.02926,0.00824248,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+30.2,1.47695,0.0117989,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+34.2,2.23007,0.0178238,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+37.6,2.91206,0.0233049,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+41.7,3.8451,0.0307524,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+45.2,4.69445,0.0375723,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+48.7,5.56472,0.0445178,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+51.8,6.35131,0.0507938,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+55.1,7.21322,0.0576974,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+63.7,9.26338,0.0740986,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+86.7,13.5854,0.0407522,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+93.2,14.8365,0.0445178,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+99.2,15.5561,0.0466516,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+106.7,16.2256,0.0486599,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+115.4,17.5728,0.0527184,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+124.2,18.5184,0.0555635,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+136.2,19.4138,0.0582413,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+145.4,20.2087,0.0606262,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+163.4,21.2129,0.0636386,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+172.6,21.7233,0.0651867,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+182.0,21.8781,0.065647,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+191.2,22.2965,0.0669022,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+217.2,22.8446,0.0685339,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+228.4,23.0957,0.069287,None kPa,N/A,3191,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.85 % (total),estimated by the compiler,chunk",99.85,Not Specified %,1930
+12.0,0.066944,0.00200832,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+14.0,0.108784,0.00326352,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+16.0,0.175728,0.00527184,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+18.0,0.27196,0.0081588,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+20.0,0.359824,0.0107947,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+25.0,0.786592,0.0235978,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+30.0,1.42674,0.0428023,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+35.0,2.3012,0.046024,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+40.0,3.35975,0.067195,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+45.0,4.50198,0.0900397,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+50.0,5.71953,0.114391,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+60.0,8.17135,0.163427,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+70.0,10.4516,0.209033,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+80.0,12.4725,0.124725,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+90.0,14.2423,0.142423,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+100.0,15.7026,0.157026,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+110.0,16.9536,0.169536,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+120.0,18.0205,0.180205,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+130.0,18.941,0.18941,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+140.0,19.7401,0.197401,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+150.0,20.4012,0.204012,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+160.0,20.9744,0.209744,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+170.0,21.4765,0.214765,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+180.0,21.9074,0.219074,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+190.0,22.3049,0.223049,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+200.0,22.6689,0.226689,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+210.0,22.9576,0.229576,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+220.0,23.2212,0.232212,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+230.0,23.4764,0.234764,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+240.0,23.7107,0.237107,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+250.0,23.9283,0.239283,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+260.0,24.1249,0.241249,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+270.0,24.3132,0.243132,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+280.0,24.489,0.24489,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+290.0,24.6689,0.246689,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+298.16,24.8069,0.248069,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+300.0,24.8362,0.248362,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+310.0,24.9785,0.249785,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+320.0,25.0956,0.250956,None kPa,N/A,8147,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1954
+298.16,24.8571,0.248571,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+300.0,24.8864,0.248864,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+310.0,25.0287,0.250287,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+320.0,25.1584,0.251584,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+330.0,25.2797,0.252797,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+340.0,25.4052,0.254052,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+350.0,25.5391,0.255391,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+360.0,25.6647,0.256647,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+370.0,25.786,0.25786,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+380.0,25.8948,0.258948,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+390.0,26.0077,0.260077,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+400.0,26.1123,0.261123,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+410.0,26.2169,0.262169,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+420.0,26.3132,0.263132,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+430.0,26.4178,0.264178,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+440.0,26.5224,0.265224,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+450.0,26.6228,0.266228,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+460.0,26.719,0.26719,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+470.0,26.8362,0.268362,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+480.0,26.945,0.26945,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+490.0,27.0579,0.270579,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+500.0,27.1667,0.271667,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+510.0,27.2671,0.272671,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+520.0,27.3675,0.273675,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+530.0,27.4512,0.274512,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+540.0,27.5433,0.275433,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+543.16,27.5767,0.275767,None kPa,N/A,9902,['C'],A,Adiabatic calorimeter (non-vacuum) ,"not stated,99.9 % (total),spectroscopy",99.9,Not Specified %,1957
+298.16,24.8571,0.372857,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+300.0,24.8864,0.373296,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+310.0,25.0287,0.37543,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+320.0,25.1584,0.377376,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+330.0,25.2797,0.379196,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+340.0,25.4052,0.381079,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+350.0,25.5391,0.383087,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+360.0,25.6647,0.38497,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+370.0,25.786,0.38679,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+380.0,25.8948,0.388422,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+390.0,26.0077,0.390116,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+400.0,26.1123,0.391685,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+410.0,26.2169,0.393254,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+420.0,26.3132,0.394698,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+430.0,26.4178,0.396267,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+440.0,26.5224,0.397836,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+450.0,26.6228,0.399342,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+460.0,26.719,0.400785,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+470.0,26.8362,0.402543,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+480.0,26.945,0.404174,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+490.0,27.0579,0.405869,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+500.0,27.1667,0.407501,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+510.0,27.2671,0.409007,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+520.0,27.3675,0.410513,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+530.0,27.4512,0.411768,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+540.0,27.5433,0.413149,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+543.16,27.5767,0.413651,None kPa,N/A,10018,['C'],A,large sample adiabatic calorimeter,"origin: commercial source,99.9 % (total),chemical analysis",99.9,Not Specified %,1957
+13.71,0.141796,0.00212694,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+17.506,0.284512,0.00426768,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+23.715,0.736175,0.0058894,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+30.137,1.49875,0.01199,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+34.353,2.31024,0.0184819,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+36.582,2.74834,0.0219868,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+40.041,3.54113,0.028329,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+43.021,4.18262,0.033461,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+47.67,5.31263,0.0425011,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+50.318,6.00274,0.0480219,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+54.073,6.88732,0.0550987,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+56.741,7.79923,0.0623939,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+60.566,8.92782,0.0714226,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+66.602,10.2139,0.081711,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+79.584,12.9971,0.103977,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+95.86,15.5738,0.0467215,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+105.417,16.9011,0.0507034,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+112.51,17.7196,0.053159,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+118.54,18.1738,0.0545213,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+125.634,19.0705,0.0572116,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+133.061,19.674,0.059022,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+139.365,20.1754,0.0605262,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+145.999,20.6312,0.0618935,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+152.631,20.9877,0.0629633,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+159.494,21.3388,0.0640165,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+166.125,21.6678,0.0650035,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+173.895,22.0765,0.0662294,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+181.303,22.2458,0.0667373,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+189.472,22.5882,0.0677649,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+196.848,22.9556,0.068867,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+203.892,23.1693,0.069508,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+211.475,23.3586,0.0700761,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+218.394,23.5453,0.070636,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+226.561,23.8303,0.0714907,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+231.37,23.9438,0.0718313,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+237.463,24.0146,0.0720439,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+243.275,24.1145,0.0723435,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+249.129,24.2475,0.0727426,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+254.571,24.3957,0.0731869,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+260.325,24.4667,0.0733999,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+265.889,24.6695,0.0740087,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+271.331,24.7222,0.0741664,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+275.984,24.7627,0.0742882,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+280.015,24.8796,0.0746388,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+285.0,24.9148,0.0747446,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+289.653,24.9814,0.0749442,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+293.771,25.01,0.07503,None kPa,N/A,10860,['C'],A,Vacuum adiabatic calorimetry,origin: commercial source,,,1959
+0.434408,0.000538535,2.69268e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.438452,0.000547154,2.73577e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.446419,0.000573702,2.86851e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.453498,0.00055456,2.7728e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.45781,0.000564472,2.82236e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.464747,0.00058325,2.91625e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.471445,0.000579208,2.89604e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.48077,0.000617374,3.08687e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.48485,0.000597655,2.98828e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.48658,0.000594454,2.97227e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.498919,0.000624316,3.12158e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.507257,0.000649114,3.24557e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.509068,0.00062924,3.1462e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.514509,0.000623751,3.11875e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.531639,0.00065326,3.2663e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.535845,0.000691352,3.45676e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.536675,0.000663415,3.31708e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.541987,0.000672955,3.36477e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.56164,0.000672273,3.36136e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.562956,0.000696657,3.48328e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.573873,0.000711359,3.5568e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.584029,0.000716288,3.58144e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.594752,0.000713343,3.56671e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.598548,0.000755965,3.77983e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.6084,0.000752095,3.76047e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.633924,0.000778232,3.89116e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.645112,0.000807395,4.03697e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.65553,0.000822018,4.11009e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.673194,0.000838637,4.1932e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.679279,0.000831386,4.15693e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.69388,0.000841599,4.20797e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.695514,0.000858712,4.29358e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.721048,0.000911915,4.5596e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.723927,0.000886887,4.43445e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.739256,0.000887874,4.43939e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.743579,0.000909861,4.5493e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.763931,0.000915995,4.57997e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.770415,0.000948145,4.74072e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.787121,0.00100753,5.03766e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.794248,0.000984805,4.92402e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.813929,0.000999009,4.99507e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.816039,0.000953835,4.76917e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.836212,0.00101033,5.05168e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.853229,0.00104259,5.21297e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.871734,0.00108533,5.42665e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.874363,0.00105681,5.28406e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.895974,0.00112021,5.60104e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.917099,0.00111153,5.55765e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.943504,0.00116352,5.8176e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.946953,0.00115575,5.77873e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.960135,0.00115263,5.76317e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+0.986362,0.0012277,6.13851e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.01871,0.00128871,6.44357e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.01907,0.00120396,6.01981e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.0283,0.00130862,6.54311e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.04327,0.0012563,6.28152e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.06403,0.00133944,6.69725e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.09947,0.00139523,6.97615e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.11158,0.00141955,7.09774e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.16358,0.00147432,7.37158e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.18786,0.00148507,7.42534e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.19305,0.00149167,7.45836e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.21434,0.00153474,7.67371e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.26405,0.00158512,7.92563e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.268,0.00155576,7.77881e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.29964,0.00163886,8.19428e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.32937,0.00171534,8.5767e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.37139,0.00178909,8.94543e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.4204,0.00179046,8.95234e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.45181,0.00187601,9.38007e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.45521,0.00189335,9.46672e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+1.492,0.00191239,9.56195e-05,None kPa,N/A,12290,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 % (total),spectroscopy,rod",99.95,Not Specified %,1961
+4.86,0.01046,0.0003138,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+5.28,0.0112968,0.000338904,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+5.65,0.0133888,0.000401664,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+6.05,0.0154808,0.000464424,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+6.37,0.0171544,0.000514632,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+6.85,0.0196648,0.000589944,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+7.28,0.0225936,0.000677808,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+7.68,0.025104,0.00075312,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+8.1,0.0284512,0.000853536,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+8.47,0.03138,0.0009414,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+8.9,0.035564,0.00106692,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+9.32,0.0389112,0.00116734,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+9.72,0.043932,0.00131796,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+10.09,0.0464424,0.00139327,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+10.41,0.0523,0.001569,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+10.93,0.0602496,0.00180749,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+11.35,0.0656888,0.00197066,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+11.74,0.0723832,0.0021715,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+12.13,0.0782408,0.00234722,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+12.55,0.0861904,0.00258571,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+12.92,0.0933032,0.0027991,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+13.38,0.105018,0.00315055,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+13.91,0.115897,0.0034769,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+14.42,0.132214,0.00396643,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+14.92,0.141838,0.00425513,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+15.43,0.15941,0.00478231,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+16.01,0.17782,0.0053346,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+16.69,0.205016,0.00615048,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+17.31,0.229283,0.0068785,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+17.94,0.258571,0.00775714,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+1.25,0.0016736,5.0208e-05,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+1.51,0.002092,6.276e-05,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+1.8,0.00259408,7.78224e-05,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+2.05,0.00288696,8.66088e-05,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+2.26,0.0033472,0.000100416,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+2.46,0.00380744,0.000114223,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+2.68,0.00410032,0.00012301,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+2.9,0.00451872,0.000135562,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+3.13,0.00489528,0.000146858,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+3.34,0.00535552,0.000160666,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+3.5,0.00577392,0.000173218,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+3.69,0.00610864,0.000183259,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+3.88,0.0064852,0.000194556,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+4.07,0.00686176,0.000205853,None kPa,N/A,8865,['C'],A,Low temperature calorimetry set up,not stated,,,1955
+12.62,0.0826,0.002478,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+12.27,0.0855,0.002565,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+11.84,0.0699,0.002097,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+11.35,0.0644,0.001932,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+10.83,0.054,0.00162,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+10.3,0.0434,0.001302,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+9.71,0.0436,0.001308,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+9.1,0.0383,0.001149,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+8.47,0.0317,0.000951,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+7.89,0.0265,0.000795,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+7.22,0.0222,0.000666,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+6.44,0.0167,0.000501,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+5.6,0.0135,0.000405,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+4.55,0.0077,0.000231,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+3.14,0.0053,0.000159,None kPa,N/A,9681,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.95 weight % (total),stated by supplier,rod",99.95,Weight %,1957
+12.62,0.0796,0.002388,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+12.27,0.0749,0.002247,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+11.84,0.0704,0.002112,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+11.35,0.064,0.00192,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+10.83,0.0547,0.001641,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+10.3,0.0479,0.001437,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+9.71,0.0432,0.001296,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+9.1,0.0358,0.001074,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+8.47,0.0325,0.000975,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+7.89,0.0275,0.000825,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+7.22,0.0212,0.000636,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+6.44,0.0165,0.000495,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+5.6,0.0129,0.000387,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+4.55,0.0079,0.000237,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+3.14,0.0054,0.000162,None kPa,N/A,9682,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.98 weight % (total),stated by supplier,rod",99.98,Weight %,1957
+1.53877,0.002055,1.57213e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+1.81502,0.002474,1.89046e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+2.02282,0.002805,2.15116e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+2.20479,0.003107,2.39985e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+2.36208,0.003379,2.63391e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+2.52397,0.00367,2.89687e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+2.70279,0.004005,3.21765e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+2.84155,0.004276,3.4915e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+2.98895,0.004574,3.80909e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+3.10976,0.004827,4.09173e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+3.24441,0.005118,4.43236e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+3.36838,0.005396,4.77144e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+3.50752,0.005718,5.18293e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+3.64361,0.006046,5.61888e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+3.77447,0.006372,6.07095e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+3.88438,0.006654,6.47669e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+4.0142,0.006999,6.98781e-05,None kPa,N/A,10406,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.99 % (total),stated by supplier",99.99,Not Specified %,1958
+80.0,12.4976,0.374928,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+90.0,14.0038,0.420115,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+100.0,15.3218,0.459654,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+110.0,16.5268,0.495804,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+120.0,17.6607,0.52982,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+130.0,18.6104,0.558313,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+150.0,20.0455,0.601366,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+160.0,20.556,0.61668,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+170.0,20.9953,0.629859,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+180.0,21.3719,0.641156,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+190.0,21.7694,0.653081,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+200.0,22.1334,0.664001,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+210.0,22.4681,0.674042,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+220.0,22.7861,0.683582,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+230.0,23.0622,0.691866,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+240.0,23.2923,0.69877,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+250.0,23.489,0.704669,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+260.0,23.6647,0.709941,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+270.0,23.8153,0.71446,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+280.0,23.945,0.718351,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+290.0,24.0454,0.721363,None kPa,N/A,11398,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+80.0,12.4976,0.374928,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+90.0,14.0038,0.420115,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+100.0,15.3218,0.459654,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+110.0,16.5268,0.495804,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+120.0,17.6607,0.52982,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+130.0,18.6104,0.558313,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+150.0,20.0455,0.601366,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+160.0,20.556,0.61668,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+170.0,20.9953,0.629859,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+180.0,21.3719,0.641156,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+190.0,21.7694,0.653081,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+200.0,22.1334,0.664001,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+210.0,22.4681,0.674042,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+220.0,22.7861,0.683582,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+230.0,23.0622,0.691866,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+240.0,23.2923,0.69877,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+250.0,23.489,0.704669,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+260.0,23.6647,0.709941,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+270.0,23.8153,0.71446,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+280.0,23.945,0.718351,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+290.0,24.0454,0.721363,None kPa,N/A,11399,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight %,estimated by the compiler",99.9,Weight %,1960
+80.0,12.4976,0.374928,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+90.0,14.0038,0.420115,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+100.0,15.3218,0.459654,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+110.0,16.5268,0.495804,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+120.0,17.6607,0.52982,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+130.0,18.6104,0.558313,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+150.0,20.0455,0.601366,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+160.0,20.556,0.61668,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+170.0,20.9953,0.629859,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+180.0,21.3719,0.641156,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+190.0,21.7694,0.653081,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+200.0,22.1334,0.664001,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+210.0,22.4681,0.674042,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+220.0,22.7861,0.683582,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+230.0,23.0622,0.691866,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+240.0,23.2923,0.69877,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+250.0,23.489,0.704669,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+260.0,23.6647,0.709941,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+270.0,23.8153,0.71446,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+280.0,23.945,0.718351,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+290.0,24.0454,0.721363,None kPa,N/A,11400,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.9 weight % (total),estimated by the compiler",99.9,Weight %,1960
+190.0,22.2589,0.667766,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+200.0,22.6564,0.679691,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+210.0,22.9911,0.689732,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+220.0,23.2965,0.698895,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+230.0,23.5559,0.706678,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+240.0,23.786,0.713581,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+250.0,23.9952,0.719857,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+260.0,24.2044,0.726133,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+280.0,24.5684,0.737053,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+300.0,24.853,0.745589,None kPa,N/A,11401,['C'],A,non-adiabatic vacuum calorimeter,not stated,,,1960
+190.0,22.3049,0.669147,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+200.0,22.6689,0.680067,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+210.0,22.9576,0.688728,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+220.0,23.2212,0.696636,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+230.0,23.4764,0.704293,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+240.0,23.7107,0.711322,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+250.0,23.9283,0.717849,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+260.0,24.1249,0.723748,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+280.0,24.489,0.734669,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
+300.0,24.8362,0.745087,None kPa,N/A,11402,['C'],A,non-adiabatic vacuum calorimeter,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1960
