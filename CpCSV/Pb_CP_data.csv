@@ -1,0 +1,1220 @@
+Temperature: K,Heat capacity at constant pressure Cp: J/K/mol,Uncertainty,Pressure,Ref Temp,Data Set ID,State,Representation,Method,Description,Purity,Purity Units,Year
+273.0,26.2337,0.262337,None kPa,N/A,872,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+193.0,25.3969,0.253969,None kPa,N/A,872,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+202.0,26.0663,0.260663,None kPa,N/A,873,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+198.0,26.2337,0.262337,None kPa,N/A,873,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+101.0,24.058,0.24058,None kPa,N/A,873,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+93.0,23.9325,0.239325,None kPa,N/A,873,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+90.0,24.2254,0.242254,None kPa,N/A,873,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+88.0,24.2672,0.242672,None kPa,N/A,873,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+82.0,23.6814,0.236814,None kPa,N/A,874,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+78.0,23.7233,0.237233,None kPa,N/A,874,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+76.0,23.9743,0.239743,None kPa,N/A,874,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+67.0,23.8488,0.238488,None kPa,N/A,874,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+65.0,23.4304,0.234304,None kPa,N/A,874,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+63.0,23.1794,0.231794,None kPa,N/A,874,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+61.0,23.012,0.23012,None kPa,N/A,874,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+90.2,23.4722,0.234722,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+85.5,23.5141,0.235141,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+54.5,22.1752,0.221752,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+38.1,18.6188,0.186188,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+37.9,19.5393,0.195393,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+36.5,17.2799,0.172799,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+28.3,16.4431,0.164431,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+23.0,12.3846,0.123846,None kPa,N/A,875,['C'],A,Low temperature calorimetry set up,not stated,,,1911
+23.0,12.3846,0.495386,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+28.3,16.4013,0.656051,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+36.8,18.4096,0.736384,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+38.1,18.6188,0.744752,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+85.5,23.6396,0.945584,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+90.2,23.8906,0.955626,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+200.0,25.6479,1.02592,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+273.0,26.401,1.05604,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+290.0,26.4847,1.05939,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+332.0,26.8194,1.07278,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+409.0,27.6562,1.10625,None kPa,N/A,911,['C'],A,not stated,not stated,,,1912
+118.6,24.853,0.745589,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+166.3,25.1458,0.754375,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+254.4,25.899,0.776969,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+273.1,26.15,0.7845,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+301.5,26.4429,0.793286,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+324.1,26.6102,0.798307,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+340.5,26.8613,0.805838,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+370.6,27.1123,0.81337,None kPa,N/A,1175,['C'],A,Low temperature calorimetry set up,not stated,,,1914
+140.0,24.9785,1.24892,101.325 kPa,N/A,1182,['C'],A,Not Described,not stated,,,1914
+200.0,25.5224,1.27612,None kPa,N/A,1182,['C'],A,Not Described,not stated,,,1914
+300.0,26.4429,1.32214,None kPa,N/A,1182,['C'],A,Not Described,not stated,,,1914
+380.0,27.1542,1.35771,None kPa,N/A,1182,['C'],A,Not Described,not stated,,,1914
+9.85,2.79073,0.0558146,None kPa,N/A,2028,['C'],A,N/A,not stated,,,1924
+10.78,3.4518,0.069036,None kPa,N/A,2028,['C'],A,N/A,not stated,,,1924
+12.15,4.53127,0.0906254,None kPa,N/A,2028,['C'],A,N/A,not stated,,,1924
+13.37,5.56472,0.111294,None kPa,N/A,2028,['C'],A,N/A,not stated,,,1924
+638.15,29.0788,1.45394,None kPa,N/A,2495,['C'],A,Adiabatic calorimeter (non-vacuum) ,origin: commercial source,,,1927
+651.15,29.288,1.4644,None kPa,N/A,2495,['C'],A,Adiabatic calorimeter (non-vacuum) ,origin: commercial source,,,1927
+691.15,29.0788,1.45394,None kPa,N/A,2495,['C'],A,Adiabatic calorimeter (non-vacuum) ,origin: commercial source,,,1927
+732.15,29.0788,1.45394,None kPa,N/A,2495,['C'],A,Adiabatic calorimeter (non-vacuum) ,origin: commercial source,,,1927
+627.15,29.3717,1.46858,None kPa,N/A,2495,['C'],A,Adiabatic calorimeter (non-vacuum) ,origin: commercial source,,,1927
+648.15,29.1625,1.45812,None kPa,N/A,2495,['C'],A,Adiabatic calorimeter (non-vacuum) ,origin: commercial source,,,1927
+692.15,29.0788,1.45394,None kPa,N/A,2495,['C'],A,Adiabatic calorimeter (non-vacuum) ,origin: commercial source,,,1927
+2.24,1.0209,0.510448,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+2.81,3.04595,1.6736,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+2.91,0.916296,0.46024,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+3.04,0.694544,0.347272,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+3.07,0.79496,0.39748,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+3.16,0.9414,0.472792,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+3.28,1.76565,1.09202,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+3.485,1.0209,0.510448,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+3.79,0.656888,0.330536,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+4.09,0.7322,0.14644,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+4.52,0.728016,0.14644,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+4.61,0.765672,0.154808,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+4.64,0.8368,0.16736,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+4.75,0.891192,0.179912,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+5.01,0.874456,0.175728,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+5.24,0.803328,0.158992,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+5.34,0.945584,0.18828,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+5.41,1.04182,0.2092,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+5.58,1.15478,0.23012,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+5.78,1.046,0.2092,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+6.33,1.10458,0.221752,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+7.84,2.00832,0.401664,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+8.57,2.33049,0.071128,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+12.66,5.06682,0.150624,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+16.4,7.62743,0.23012,None kPa,N/A,2580,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+11.66,3.73631,0.112968,None kPa,N/A,2581,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+13.26,5.47267,0.163176,None kPa,N/A,2581,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+14.69,6.45591,0.192464,None kPa,N/A,2581,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+17.0,7.16719,0.631784,None kPa,N/A,2581,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+19.3,9.6232,0.707096,None kPa,N/A,2581,['C'],A,Low temperature calorimetry set up,not stated,,,1927
+9.96,2.66521,0.0799562,133.322 kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+12.15,4.30952,0.129286,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+14.84,5.94128,0.178238,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+15.73,6.98728,0.209618,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.77,0.375723,0.0112717,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+5.58,0.577392,0.0173218,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+2.2,0.218823,0.0065647,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+3.55,0.152716,0.00458148,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.49,0.267776,0.00803328,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+3.56,0.13347,0.00400409,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.61,0.339741,0.0101922,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+2.98,0.109202,0.00327607,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.06,0.189954,0.00569861,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.73,0.324678,0.00974035,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+5.48,0.506264,0.0151879,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+6.16,0.707096,0.0212129,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+7.61,1.37654,0.0412961,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+8.46,1.76146,0.0528439,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+9.44,2.37651,0.0712954,None kPa,N/A,3489,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+6.78551,0.88959,0.00177918,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+6.83845,0.910053,0.00182011,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+6.90707,0.935948,0.0018719,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+6.95634,0.963111,0.00192622,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.02369,0.983566,0.00196713,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.07036,1.01882,0.00203765,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.13849,1.04115,0.0020823,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.18305,1.07586,0.00215173,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.2911,1.12223,0.00224445,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.35346,1.16367,0.00232733,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.39595,1.1765,0.00235301,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.456,1.21326,0.00242653,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.49592,1.23692,0.00247385,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+6.81655,0.959931,0.00191986,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+6.84069,0.947325,0.00189465,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+6.92965,1.00626,0.00201253,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+6.95394,1.00538,0.00201075,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.04151,1.05154,0.00210309,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.06368,1.0702,0.0021404,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.14813,1.10899,0.00221798,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.16874,1.116,0.002232,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.27421,1.12002,0.00224004,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.35786,1.17012,0.00234024,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.37848,1.16316,0.00232633,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.46032,1.2202,0.0024404,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.48229,1.21466,0.00242931,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.56013,1.2619,0.0025238,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.58454,1.24829,0.00249658,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.65958,1.32047,0.00264093,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.68217,1.32012,0.00264024,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+7.74122,1.3617,0.00272341,None kPa,N/A,7135,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.996 % (total),,rod",99.996,Not Specified %,1952
+2.671,0.0437646,0.000875293,1.33322e-07 kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.814,0.0589526,0.00117905,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.781,0.0110039,0.000220078,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.837,0.0125938,0.000251877,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.847,0.0133051,0.000266102,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.903,0.0134725,0.00026945,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.926,0.0141838,0.000283675,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.974,0.0181167,0.000362334,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.312,0.0243509,0.000487018,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.449,0.0310871,0.000621742,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.58,0.0383673,0.000767346,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.704,0.053346,0.00106692,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.842,0.0595383,0.00119077,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.957,0.0636805,0.00127361,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.078,0.0683247,0.00136649,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.219,0.0802073,0.00160415,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.389,0.0788266,0.00157653,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.509,0.0901652,0.0018033,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.586,0.0991608,0.00198322,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.671,0.130541,0.00261082,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+72.28,23.4722,0.469445,1.33322e-07 kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+71.79,23.3467,0.466934,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+66.82,23.3049,0.466098,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+65.18,23.2212,0.464424,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+64.21,23.0957,0.461914,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+76.8,23.9743,0.479486,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+20.92,10.8366,0.216731,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+20.79,10.9202,0.218405,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+19.8,10.2508,0.205016,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+19.65,10.0834,0.201669,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+19.45,9.87424,0.197485,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+18.15,9.58136,0.191627,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+18.02,9.45584,0.189117,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+17.86,9.33032,0.186606,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+17.15,8.61904,0.172381,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.98,8.40984,0.168197,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.83,8.53536,0.170707,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.33,8.28432,0.165686,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.16,8.32616,0.166523,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+15.99,8.20064,0.164013,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.66,7.1128,0.142256,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.58,7.07096,0.141419,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.51,6.9036,0.138072,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.37,6.94544,0.138909,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.892,0.0191627,0.000383254,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.403,0.0106692,0.000213384,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.619,0.0113805,0.00022761,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.855,0.0246019,0.000492038,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.087,0.0246856,0.000493712,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+4.118,0.165686,0.00331373,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.295,0.089956,0.00179912,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.407,0.096232,0.00192464,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.535,0.103763,0.00207526,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+0.3,4.717e-05,1.42e-06,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.5,0.0002189,6.6e-06,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.7,0.000603,1.81e-05,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.9,0.0012882,3.86e-05,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.1,0.0023669,4.73e-05,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.3,0.0039364,7.87e-05,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.5,0.0061,0.000122,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.7,0.0089678,0.0001794,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.9,0.012658,0.000253,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.1,0.017298,0.000346,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.3,0.023026,0.000461,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.5,0.029991,0.0006,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.7,0.038353,0.000767,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.9,0.048287,0.000966,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.1,0.059984,0.0012,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.3,0.073646,0.001473,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.5,0.089497,0.00179,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.7,0.10778,0.00216,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.9,0.12874,0.00257,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+4.0,0.14031,0.00281,None kPa,N/A,13816,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.3,0.0009373,2.81e-05,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.5,0.0016909,5.07e-05,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.7,0.0026395,7.92e-05,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.9,0.0038649,0.0001159,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.1,0.0054527,0.0001091,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.3,0.0074932,0.0001499,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.5,0.010083,0.000202,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.7,0.013324,0.000266,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+1.9,0.01733,0.000347,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.1,0.022219,0.000444,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.3,0.028123,0.000562,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.5,0.035184,0.000704,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.7,0.043556,0.000871,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+2.9,0.053408,0.001068,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.1,0.06492,0.001298,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.3,0.078291,0.001566,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.5,0.093736,0.001875,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.7,0.11149,0.00223,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+3.9,0.1318,0.00264,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+4.0,0.14299,0.00286,None kPa,N/A,13817,['C'],A,Low temperature calorimetry set up,"not stated,99.999 % (total),",99.999,Not Specified %,1963
+0.1955,0.0006015,1.8045e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2062,0.0006297,1.8891e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2113,0.0006456,1.9368e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2172,0.0006585,1.9755e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2279,0.0006952,2.0856e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2287,0.0007,2.1e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2384,0.0007194,2.1582e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2468,0.0007489,2.2467e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2488,0.000763,2.289e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2665,0.000829,2.487e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.272,0.0008409,2.5227e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2896,0.0009168,2.7504e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2974,0.0009255,2.7765e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3149,0.00101,3.03e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3247,0.001034,3.102e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3431,0.001106,3.318e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3712,0.001209,3.627e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.4409,0.001458,4.374e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.4893,0.001669,5.007e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.5398,0.00188,5.64e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.6084,0.002194,6.582e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.6704,0.00253,7.59e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.7391,0.002892,8.676e-05,None kPa,N/A,14807,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2193,3.12e-05,9.36e-07,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2238,3.13e-05,9.39e-07,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2361,3.91e-05,1.173e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2558,4.42e-05,1.326e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2593,4.66e-05,1.398e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.277,5.35e-05,1.605e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2803,5.57e-05,1.671e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2866,5.98e-05,1.794e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.2966,6.43e-05,1.929e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3054,7e-05,2.1e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3096,7.23e-05,2.169e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3369,8.89e-05,2.667e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3451,9.44e-05,2.832e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3694,0.0001093,3.279e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3717,0.0001133,3.399e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.3943,0.0001324,3.972e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.405,0.000144,4.32e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.4325,0.0001678,5.034e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.4594,0.000194,5.82e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.4801,0.0002185,6.555e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.4964,0.0002359,7.077e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.5159,0.0002675,8.025e-06,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.5725,0.000354,1.062e-05,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.6219,0.0004338,1.3014e-05,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.6889,0.0005921,1.7763e-05,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.7198,0.0006794,2.0382e-05,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.7328,0.0007041,2.1123e-05,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+0.7605,0.0008011,2.4033e-05,None kPa,N/A,14808,['C'],A,Low temperature calorimetry set up,not stated,,,1964
+2.0,0.01967,3.934e-05,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+2.25,0.0266,5.32e-05,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+2.5,0.03514,7.028e-05,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+2.75,0.04556,9.112e-05,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.0,0.05824,0.00011648,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.25,0.07364,0.00014728,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.5,0.09229,0.00018458,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.75,0.1147,0.0002294,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.0,0.1417,0.0002834,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.25,0.1739,0.0003478,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.5,0.2117,0.0004234,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.75,0.2559,0.0005118,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.0,0.307,0.000614,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.25,0.3654,0.0007308,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.5,0.4314,0.0008628,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.75,0.5054,0.0010108,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.0,0.5874,0.0011748,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.25,0.6777,0.0013554,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.5,0.7764,0.0015528,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.75,0.8832,0.0017664,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+7.0,0.998,0.001996,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+7.25,1.112,0.002224,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+7.5,1.249,0.002498,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+7.75,1.384,0.002768,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+8.0,1.527,0.003054,None kPa,N/A,17119,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+2.0,0.01392,2.784e-05,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+2.25,0.02044,4.088e-05,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+2.5,0.02873,5.746e-05,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+2.75,0.03913,7.826e-05,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.0,0.05203,0.00010406,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.25,0.06792,0.00013584,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.5,0.08736,0.00017472,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+3.75,0.1109,0.0002218,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.0,0.1393,0.0002786,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.25,0.1731,0.0003462,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.5,0.213,0.000426,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+4.75,0.2596,0.0005192,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.0,0.3135,0.000627,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.25,0.3753,0.0007506,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.5,0.4453,0.0008906,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+5.75,0.524,0.001048,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.0,0.6116,0.0012232,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.25,0.7081,0.0014162,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.5,0.8133,0.0016266,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+6.75,0.927,0.001854,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+7.0,1.0493,0.0020986,None kPa,N/A,17120,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.9999 % (total),stated by supplier,ingot",99.9999,Not Specified %,1967
+9.96,2.93298,0.146649,133.322 kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+12.15,4.72792,0.236396,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+14.84,6.52704,0.326352,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+15.73,7.69856,0.384928,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.77,0.413379,0.0413379,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+5.58,0.635968,0.0317984,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+2.2,0.24058,0.024058,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+3.55,0.168197,0.0168197,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.49,0.294554,0.0294554,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+3.56,0.146858,0.0146858,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.61,0.37405,0.037405,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+2.98,0.120081,0.0120081,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.06,0.2092,0.02092,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+4.73,0.357314,0.0357314,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+5.48,0.556472,0.0278236,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+6.16,0.778224,0.0389112,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+7.61,1.51879,0.0759396,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+8.46,1.94138,0.0970688,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+9.44,2.61918,0.130959,None kPa,N/A,3242,['C'],A,Low temperature calorimetry set up,not stated,,,1930
+64.54,22.7861,1.1393,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+69.52,23.1543,1.15771,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+74.84,23.443,1.17215,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+80.39,23.6647,1.18324,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+86.13,23.9241,1.19621,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+90.96,24.0162,1.20081,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+96.0,24.2295,1.21148,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+101.77,24.5684,1.22842,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+107.54,24.673,1.23365,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+113.39,24.8153,1.24077,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+120.37,24.8237,1.24118,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+127.72,24.9199,1.246,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+135.26,25.0789,1.25394,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+143.4,25.263,1.26315,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+151.63,25.2965,1.26482,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+160.03,25.3927,1.26963,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+167.97,25.4722,1.27361,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+176.4,25.6814,1.28407,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+184.48,25.7232,1.28616,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+192.61,25.6856,1.28428,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+200.75,25.7902,1.28951,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+209.04,25.8948,1.29474,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+217.61,26.0663,1.30332,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+226.0,26.0747,1.30373,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+234.99,26.2588,1.31294,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+244.01,26.2881,1.3144,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+252.58,26.4722,1.32361,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+260.98,26.5349,1.32675,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+269.44,26.5893,1.32947,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+277.89,26.7232,1.33616,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+284.66,26.8278,1.34139,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+292.6,26.6814,1.33407,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+299.91,26.8529,1.34265,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+15.74,7.5312,0.37656,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+19.06,10.3261,0.516306,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+23.08,12.9369,0.646846,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+27.78,15.4348,0.771739,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+32.85,17.6356,0.881778,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+37.79,19.0749,0.953743,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+42.87,20.125,1.00625,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+48.23,21.1125,1.05562,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+53.42,21.9032,1.09516,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+58.85,22.33,1.1165,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+15.47,7.25924,0.362962,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+18.77,10.0876,0.504381,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+22.74,12.7152,0.635759,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+27.06,15.0582,0.752911,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+14.16,6.53122,0.326561,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+16.95,8.9956,0.44978,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+20.11,11.1587,0.557936,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+23.62,13.6859,0.684293,None kPa,N/A,5526,['C'],A,Low temperature calorimetry set up,"not stated,99.99 weight % (total),estimated by the compiler",99.99,Weight %,1941
+2.671,0.0437646,0.000875293,1.33322e-07 kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.814,0.0589526,0.00117905,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.781,0.0110039,0.000220078,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.837,0.0125938,0.000251877,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.847,0.0133051,0.000266102,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.903,0.0134725,0.00026945,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.926,0.0141838,0.000283675,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.974,0.0181167,0.000362334,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.312,0.0243509,0.000487018,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.449,0.0310871,0.000621742,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.58,0.0383673,0.000767346,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.704,0.053346,0.00106692,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.842,0.0595383,0.00119077,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.957,0.0636805,0.00127361,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.078,0.0683247,0.00136649,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.219,0.0802073,0.00160415,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.389,0.0788266,0.00157653,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.509,0.0901652,0.0018033,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.586,0.0991608,0.00198322,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.671,0.130541,0.00261082,None kPa,N/A,7273,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+72.28,23.4722,0.469445,1.33322e-07 kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+71.79,23.3467,0.466934,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+66.82,23.3049,0.466098,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+65.18,23.2212,0.464424,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+64.21,23.0957,0.461914,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+76.8,23.9743,0.479486,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+20.92,10.8366,0.216731,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+20.79,10.9202,0.218405,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+19.8,10.2508,0.205016,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+19.65,10.0834,0.201669,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+19.45,9.87424,0.197485,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+18.15,9.58136,0.191627,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+18.02,9.45584,0.189117,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+17.86,9.33032,0.186606,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+17.15,8.61904,0.172381,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.98,8.40984,0.168197,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.83,8.53536,0.170707,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.33,8.28432,0.165686,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+16.16,8.32616,0.166523,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+15.99,8.20064,0.164013,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.66,7.1128,0.142256,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.58,7.07096,0.141419,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.51,6.9036,0.138072,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+14.37,6.94544,0.138909,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.892,0.0191627,0.000383254,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.403,0.0106692,0.000213384,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.619,0.0113805,0.00022761,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+1.855,0.0246019,0.000492038,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+2.087,0.0246856,0.000493712,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+4.118,0.165686,0.00331373,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.295,0.089956,0.00179912,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.407,0.096232,0.00192464,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+3.535,0.103763,0.00207526,None kPa,N/A,7274,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.99 % (total),stated by supplier,rod",99.99,Not Specified %,1952
+298.16,26.4429,0.132214,None kPa,N/A,8158,['C'],A,Drop ice or diphenyl ether calorimetry,"origin: commercial source,99.9 % (total),spectroscopy",99.9,Not Specified %,1954
+300.0,26.4847,0.132424,None kPa,N/A,8158,['C'],A,Drop ice or diphenyl ether calorimetry,"origin: commercial source,99.9 % (total),spectroscopy",99.9,Not Specified %,1954
+325.0,26.6939,0.13347,None kPa,N/A,8158,['C'],A,Drop ice or diphenyl ether calorimetry,"origin: commercial source,99.9 % (total),spectroscopy",99.9,Not Specified %,1954
+0.431,0.00144,4.32e-05,None kPa,N/A,15378,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.485,0.00167,5.01e-05,None kPa,N/A,15378,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.545,0.0019,5.7e-05,None kPa,N/A,15378,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.616,0.00224,6.72e-05,None kPa,N/A,15378,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.741,0.0029,8.7e-05,None kPa,N/A,15378,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.908,0.00396,0.0001188,None kPa,N/A,15378,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.363,9e-05,2.7e-06,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.379,9.8e-05,2.94e-06,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.395,0.000116,3.48e-06,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.434,0.000147,4.41e-06,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.498,0.000221,6.63e-06,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.588,0.000362,1.086e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.667,0.000527,1.581e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.768,0.000814,2.442e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.9,0.001303,3.909e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.067,0.00219,6.57e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.175,0.00293,8.79e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.472,0.000192,5.76e-06,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.526,0.000261,7.83e-06,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.609,0.000401,1.203e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.7,0.000602,1.806e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.827,0.000998,2.994e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+0.964,0.00157,4.71e-05,None kPa,N/A,15379,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.0,0.0244,0.00084,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.05,0.02624,0.00092,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.1,0.02821,0.001,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.15,0.0303,0.0011,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.2,0.03252,0.0012,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.25,0.03488,0.00131,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.3,0.0374,0.00143,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.35,0.04006,0.00156,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.4,0.04289,0.0017,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.45,0.04589,0.00185,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.5,0.04906,0.00201,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.55,0.05243,0.00219,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.6,0.05599,0.00237,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.65,0.05975,0.00258,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.7,0.06373,0.00279,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.75,0.06794,0.00302,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.8,0.07238,0.00327,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.85,0.07706,0.00354,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.9,0.082,0.00383,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.95,0.08721,0.00413,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.0,0.0927,0.00445,None kPa,N/A,15380,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.68,0.013,0.00039,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.907,0.0176,0.000528,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.238,0.0261,0.000783,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.44,0.0328,0.000984,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.658,0.0412,0.001236,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.889,0.0519,0.001557,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.129,0.0654,0.001962,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.376,0.0823,0.002469,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.7,0.109,0.00327,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+4.072,0.149,0.00447,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+4.41,0.195,0.00585,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.007,0.00471,0.0001413,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.168,0.00623,0.0001869,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.282,0.00746,0.0002238,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.414,0.00909,0.0002727,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.546,0.011,0.00033,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.716,0.0138,0.000414,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.819,0.0158,0.000474,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.983,0.0194,0.000582,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.046,0.021,0.00063,None kPa,N/A,15381,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.098,0.00235,7.05e-05,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.272,0.00368,0.0001104,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.408,0.005,0.00015,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.578,0.00707,0.0002121,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.753,0.00972,0.0002916,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.958,0.0138,0.000414,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.18,0.0195,0.000585,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.366,0.0253,0.000759,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.514,0.0309,0.000927,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.662,0.0372,0.001116,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.851,0.0469,0.001407,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.004,0.0559,0.001677,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.357,0.00444,0.0001332,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+1.723,0.0092,0.000276,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.032,0.0153,0.000459,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.529,0.0306,0.000918,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+2.818,0.0431,0.001293,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.158,0.0656,0.001968,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.347,0.0762,0.002286,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.599,0.0979,0.002937,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+3.889,0.128,0.00384,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+4.117,0.157,0.00471,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+4.45,0.209,0.00627,None kPa,N/A,15382,['C'],A,Low temperature calorimetry set up,"not stated,99.9999 % (total),",99.9999,Not Specified %,1965
+304.35,26.5349,0.132675,6.66612 kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+316.29,26.6228,0.133114,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+328.17,26.7274,0.133637,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+347.29,26.9324,0.134662,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+358.95,26.9952,0.134976,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+369.8,27.0998,0.135499,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+378.3,27.1709,0.135854,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+393.17,27.3341,0.13667,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+423.28,27.6688,0.138344,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+434.92,27.7943,0.138972,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+446.51,27.9366,0.139683,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+457.4,28.0537,0.140269,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+458.03,28.0495,0.140248,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+469.48,28.2755,0.141377,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+471.84,28.2922,0.141461,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+480.88,28.3717,0.141859,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+493.23,28.5014,0.142507,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+493.89,28.5391,0.142695,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+521.47,28.8822,0.144411,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+525.0,28.9533,0.144766,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+532.46,28.9909,0.144955,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+535.74,29.083,0.145415,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+543.46,29.1583,0.145791,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+546.97,29.2796,0.146398,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+554.4,29.3257,0.146628,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+557.59,29.4303,0.147151,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+565.5,29.5139,0.14757,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+568.17,29.5809,0.147904,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+576.25,29.6562,0.148281,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+586.95,29.8026,0.149013,None kPa,N/A,18059,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 % (total),stated by supplier,rod",99.995,Not Specified %,1968
+7.347,1.1867,0.059335,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.429,1.1919,0.059595,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.449,1.2523,0.062615,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.524,1.2517,0.062585,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.55,1.2864,0.06432,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.63,1.3394,0.06697,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.647,1.3364,0.06682,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.692,1.3167,0.065835,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.851,1.4647,0.073235,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.987,1.4914,0.07457,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+7.995,1.5032,0.07516,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.123,1.5972,0.07986,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.173,1.5905,0.079525,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.219,1.635,0.08175,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.339,1.7389,0.086945,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.483,1.7803,0.089015,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.576,1.8783,0.093915,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.591,1.9147,0.095735,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.65,1.9655,0.098275,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.653,1.9911,0.099555,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.714,1.9866,0.09933,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.792,2.0198,0.10099,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.833,2.0278,0.10139,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.904,2.0995,0.104975,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+8.961,2.0884,0.10442,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.03,2.1643,0.108215,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.088,2.1867,0.109335,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.28,2.4296,0.12148,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.282,2.3934,0.11967,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.283,2.3614,0.11807,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.334,2.5107,0.125535,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.346,2.5479,0.127395,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.581,2.6102,0.13051,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.585,2.5717,0.128585,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.642,2.5911,0.129555,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.677,2.5624,0.12812,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.777,2.6454,0.13227,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.821,2.7497,0.137485,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.823,2.8374,0.14187,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+9.825,2.8154,0.14077,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.059,3.0167,0.150835,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.253,3.2247,0.161235,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.038,3.0018,0.15009,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.131,2.8158,0.14079,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.245,3.2206,0.16103,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.444,3.3741,0.168705,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.564,3.1661,0.158305,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+10.729,3.3049,0.165245,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+11.098,3.5537,0.177685,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+11.322,3.7304,0.18652,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+11.522,4.3629,0.218145,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+11.83,4.0292,0.20146,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+12.065,4.4164,0.22082,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+12.165,4.7349,0.236745,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+12.448,4.7231,0.236155,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+12.716,4.5278,0.22639,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+12.756,4.557,0.22785,None kPa,N/A,33386,['C'],A,Not Stated,not stated,,,1958
+1.465,0.0056,0.00028,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+1.466,0.0058,0.00029,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+1.642,0.0081,0.000405,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+1.686,0.0084,0.00042,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+1.861,0.0116,0.00058,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+1.966,0.0138,0.00069,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.208,0.0199,0.000995,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.231,0.0197,0.000985,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.251,0.0213,0.001065,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.304,0.0212,0.00106,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.501,0.0285,0.001425,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.505,0.0298,0.00149,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.51,0.0282,0.00141,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.553,0.0306,0.00153,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.637,0.0337,0.001685,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.667,0.0366,0.00183,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.776,0.0397,0.001985,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+2.963,0.049,0.00245,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.01,0.053,0.00265,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.021,0.0526,0.00263,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.062,0.0564,0.00282,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.088,0.0568,0.00284,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.177,0.0621,0.003105,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.183,0.0644,0.00322,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.298,0.0734,0.00367,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.323,0.0758,0.00379,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.363,0.0789,0.003945,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.419,0.0818,0.00409,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.48,0.0843,0.004215,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.515,0.0906,0.00453,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.569,0.0924,0.00462,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.58,0.0949,0.004745,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.582,0.0986,0.00493,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.691,0.1081,0.005405,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.749,0.1077,0.005385,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.774,0.1133,0.005665,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.799,0.1167,0.005835,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.799,0.1148,0.00574,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.811,0.1133,0.005665,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.897,0.1309,0.006545,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.93,0.1375,0.006875,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.942,0.1292,0.00646,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.948,0.1313,0.006565,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.954,0.1338,0.00669,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+3.999,0.1373,0.006865,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.007,0.1479,0.007395,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.063,0.1489,0.007445,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.105,0.1525,0.007625,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.107,0.1587,0.007935,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.127,0.1597,0.007985,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.129,0.1652,0.00826,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.134,0.1633,0.008165,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.151,0.1601,0.008005,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.192,0.1622,0.00811,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.196,0.1723,0.008615,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.197,0.1695,0.008475,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.199,0.1765,0.008825,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.247,0.1764,0.00882,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.252,0.169,0.00845,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.253,0.1797,0.008985,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.264,0.1867,0.009335,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.277,0.1785,0.008925,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.293,0.186,0.0093,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.338,0.1898,0.00949,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.34,0.1833,0.009165,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.348,0.1926,0.00963,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.377,0.1972,0.00986,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.382,0.1939,0.009695,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.386,0.2012,0.01006,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.408,0.1938,0.00969,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.41,0.2034,0.01017,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.426,0.2062,0.01031,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.445,0.1966,0.00983,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.455,0.2125,0.010625,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.463,0.2001,0.010005,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.473,0.211,0.01055,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.494,0.212,0.0106,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.504,0.2197,0.010985,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.522,0.2178,0.01089,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.587,0.2274,0.01137,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.604,0.2262,0.01131,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.607,0.2329,0.011645,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.646,0.2403,0.012015,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.653,0.2427,0.012135,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.713,0.2563,0.012815,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.719,0.2507,0.012535,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.741,0.2533,0.012665,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.743,0.2566,0.01283,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.761,0.2612,0.01306,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.804,0.2694,0.01347,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.841,0.2734,0.01367,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.86,0.2808,0.01404,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.889,0.3005,0.015025,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.907,0.3021,0.015105,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.964,0.3088,0.01544,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+4.986,0.3262,0.01631,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.001,0.3059,0.015295,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.006,0.3013,0.015065,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.008,0.3174,0.01587,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.032,0.3234,0.01617,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.111,0.341,0.01705,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.115,0.3442,0.01721,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.165,0.3315,0.016575,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.167,0.3454,0.01727,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.184,0.3515,0.017575,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.213,0.3862,0.01931,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.276,0.3783,0.018915,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.329,0.3877,0.019385,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.332,0.4008,0.02004,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.354,0.4208,0.02104,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.356,0.4061,0.020305,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.424,0.4291,0.021455,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.475,0.4343,0.021715,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.498,0.4413,0.022065,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.513,0.4559,0.022795,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.587,0.4692,0.02346,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.591,0.4842,0.02421,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.604,0.4616,0.02308,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.506,0.4433,0.022165,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.511,0.4553,0.022765,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.515,0.451,0.02255,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.589,0.4774,0.02387,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.594,0.485,0.02425,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.62,0.4648,0.02324,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.674,0.5029,0.025145,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.683,0.4955,0.024775,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.747,0.5107,0.025535,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.79,0.5413,0.027065,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.822,0.5412,0.02706,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.867,0.5637,0.028185,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.956,0.5884,0.02942,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+5.966,0.5733,0.028665,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.071,0.6389,0.031945,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.091,0.6239,0.031195,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.129,0.6611,0.033055,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.149,0.6755,0.033775,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.153,0.6584,0.03292,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.251,0.7039,0.035195,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.314,0.7404,0.03702,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.332,0.76,0.038,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.356,0.7425,0.037125,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.359,0.7552,0.03776,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.395,0.7451,0.037255,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.525,0.8245,0.041225,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.525,0.8575,0.042875,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.528,0.8002,0.04001,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.553,0.8476,0.04238,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.555,0.8446,0.04223,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.612,0.8606,0.04303,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.622,0.8577,0.042885,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.665,0.9143,0.045715,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.687,0.9164,0.04582,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.735,0.8999,0.044995,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.75,0.9258,0.04629,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.762,0.948,0.0474,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.78,0.9309,0.046545,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.787,0.9639,0.048195,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.818,0.9546,0.04773,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.849,0.9613,0.048065,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.88,1.0021,0.050105,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.906,0.9978,0.04989,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.965,1.0516,0.05258,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.978,1.0636,0.05318,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+6.981,1.0732,0.05366,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+7.006,1.0233,0.051165,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+7.036,1.0773,0.053865,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+7.085,1.0969,0.054845,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+7.183,1.1304,0.05652,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+7.213,1.1768,0.05884,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+7.262,1.2055,0.060275,None kPa,N/A,33387,['C'],A,Not Stated,not stated,,,1958
+1.0,0.004701,2.3505e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.05,0.005117,2.5585e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.1,0.005559,2.7795e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.15,0.00603,3.015e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.2,0.00653,3.265e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.25,0.007061,3.5305e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.3,0.007626,3.813e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.35,0.008224,4.112e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.4,0.008857,4.4285e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.45,0.009528,4.764e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.5,0.010237,5.1185e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.55,0.010986,5.493e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.6,0.011776,5.888e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.65,0.01261,6.305e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.7,0.013489,6.7445e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.75,0.014414,7.207e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.8,0.015387,7.6935e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.85,0.01641,8.205e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.9,0.017484,8.742e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.95,0.018612,9.306e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.0,0.019794,9.897e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.05,0.021033,0.000105165,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.1,0.022331,0.000111655,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.15,0.023689,0.000118445,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.2,0.025109,0.000125545,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.25,0.026593,0.000132965,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.3,0.028144,0.00014072,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.0,0.004696,2.348e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.05,0.005113,2.5565e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.1,0.005556,2.778e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.15,0.006028,3.014e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.2,0.00653,3.265e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.25,0.007063,3.5315e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.3,0.007629,3.8145e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.35,0.008228,4.114e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.4,0.008864,4.432e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.45,0.009536,4.768e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.5,0.010247,5.1235e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.55,0.010998,5.499e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.6,0.011791,5.8955e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.65,0.012626,6.313e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.7,0.013507,6.7535e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.75,0.014434,7.217e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.8,0.015408,7.704e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.85,0.016433,8.2165e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.9,0.017508,8.754e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+1.95,0.018637,9.3185e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.0,0.01982,9.91e-05,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.05,0.02106,0.0001053,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.1,0.022357,0.000111785,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.15,0.023715,0.000118575,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.2,0.025134,0.00012567,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.25,0.026618,0.00013309,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+2.3,0.028166,0.00014083,None kPa,N/A,19161,['C'],A,Low temperature calorimetry set up,"origin: commercial source,99.9999 % (total),stated by supplier",99.9999,Not Specified %,1970
+312.0,26.35,0.2635,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+318.1,26.36,0.2636,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+322.6,26.31,0.2631,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+324.6,26.58,0.2658,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+333.5,26.84,0.2684,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+335.4,26.3,0.263,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+342.8,26.84,0.2684,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+355.4,26.86,0.2686,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+357.2,27.23,0.2723,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+361.1,26.84,0.2684,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+361.9,27.04,0.2704,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+363.6,26.72,0.2672,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+365.8,27.04,0.2704,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+367.3,26.84,0.2684,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+372.4,27.15,0.2715,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+373.7,27.02,0.2702,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+378.9,26.99,0.2699,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+379.3,27.03,0.2703,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+385.1,26.66,0.2666,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+385.7,27.08,0.2708,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+395.8,27.21,0.2721,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+397.3,27.35,0.2735,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+403.0,27.12,0.2712,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+406.3,27.54,0.2754,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+407.5,27.08,0.2708,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+407.8,27.23,0.2723,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+409.6,27.11,0.2711,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+412.5,27.51,0.2751,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+416.3,27.31,0.2731,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+416.4,27.37,0.2737,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+417.6,27.64,0.2764,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+421.9,27.49,0.2749,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+425.6,27.78,0.2778,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+425.9,27.73,0.2773,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+427.2,27.36,0.2736,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+431.5,27.66,0.2766,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+433.0,27.28,0.2728,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+433.7,27.72,0.2772,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+434.2,27.45,0.2745,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+436.4,27.67,0.2767,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+437.1,27.9,0.279,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+437.8,27.71,0.2771,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+438.4,27.55,0.2755,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+440.5,27.45,0.2745,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+444.1,27.8,0.278,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+446.1,27.92,0.2792,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+446.1,27.46,0.2746,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+446.9,28.02,0.2802,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+452.1,27.66,0.2766,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+453.2,27.93,0.2793,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+453.4,27.88,0.2788,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+456.4,27.84,0.2784,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+456.5,27.62,0.2762,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+456.8,27.52,0.2752,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+456.8,28.07,0.2807,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+457.5,27.87,0.2787,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+458.7,27.91,0.2791,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+461.0,27.63,0.2763,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+465.4,28.16,0.2816,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+466.1,27.94,0.2794,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+466.5,27.98,0.2798,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+466.7,28.02,0.2802,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+472.6,27.96,0.2796,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+473.4,28.16,0.2816,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+473.6,27.75,0.2775,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+476.3,28.1,0.281,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+477.5,27.7,0.277,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+477.6,28.06,0.2806,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+477.7,27.74,0.2774,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+478.0,28.01,0.2801,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+479.3,28.26,0.2826,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+484.2,28.25,0.2825,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+484.8,27.99,0.2799,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+485.6,27.89,0.2789,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+486.2,28.2,0.282,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+489.8,28.02,0.2802,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+490.2,28.07,0.2807,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+492.1,28.15,0.2815,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+493.1,28.25,0.2825,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+494.2,28.3,0.283,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+495.6,28.01,0.2801,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+496.2,28.1,0.281,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+496.6,28.07,0.2807,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+496.9,28.15,0.2815,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+497.4,28.29,0.2829,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+498.8,28.27,0.2827,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+502.0,28.5,0.285,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+503.0,28.56,0.2856,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+505.8,28.26,0.2826,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+506.3,28.44,0.2844,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+506.4,28.54,0.2854,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+507.0,28.58,0.2858,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+511.7,28.46,0.2846,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+513.0,28.6,0.286,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+513.1,28.56,0.2856,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+516.3,28.26,0.2826,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+516.9,28.29,0.2829,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+521.9,28.59,0.2859,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+522.9,28.75,0.2875,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+525.5,28.84,0.2884,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+526.9,28.36,0.2836,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+528.1,28.3,0.283,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+529.1,28.82,0.2882,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+530.5,29.02,0.2902,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+532.0,28.97,0.2897,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+532.1,28.84,0.2884,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+532.5,28.87,0.2887,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+535.7,28.44,0.2844,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+536.3,28.53,0.2853,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+536.3,28.93,0.2893,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+537.6,29.06,0.2906,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+537.8,28.99,0.2899,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+542.8,28.99,0.2899,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+545.2,29.14,0.2914,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+545.5,28.77,0.2877,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+545.7,29.23,0.2923,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+545.7,28.58,0.2858,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+546.3,29.09,0.2909,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+547.1,29.04,0.2904,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+549.8,28.9,0.289,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+551.8,29.22,0.2922,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+552.4,29.13,0.2913,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+552.5,29.34,0.2934,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+552.9,28.89,0.2889,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+552.9,29.27,0.2927,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+555.3,29.24,0.2924,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+555.3,29.1,0.291,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+556.3,29.17,0.2917,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+556.9,28.9,0.289,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+557.0,29.33,0.2933,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+557.5,28.72,0.2872,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+557.9,28.77,0.2877,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+558.7,29.13,0.2913,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+559.1,29.28,0.2928,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+561.9,29.12,0.2912,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+562.4,29.46,0.2946,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+565.0,29.42,0.2942,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+565.7,28.94,0.2894,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+565.7,29.1,0.291,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+565.8,29.36,0.2936,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+566.0,29.05,0.2905,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+566.1,28.88,0.2888,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+566.1,29.3,0.293,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+566.1,29.15,0.2915,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+566.7,29.24,0.2924,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+566.8,29.53,0.2953,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+568.6,29.48,0.2948,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+570.6,29.64,0.2964,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+572.2,29.34,0.2934,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+573.2,29.52,0.2952,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+574.7,29.23,0.2923,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+575.0,29.06,0.2906,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+575.1,29.45,0.2945,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+575.3,29.18,0.2918,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+575.6,29.42,0.2942,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+576.0,29.13,0.2913,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+576.1,29.66,0.2966,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+576.3,29.5,0.295,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+576.4,29.41,0.2941,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+576.5,29.6,0.296,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+576.6,29.57,0.2957,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+577.8,29.32,0.2932,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+581.4,29.73,0.2973,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+582.4,29.25,0.2925,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+585.3,29.66,0.2966,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+585.5,29.22,0.2922,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+586.0,29.16,0.2916,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+586.1,29.54,0.2954,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+586.4,29.46,0.2946,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+586.8,29.51,0.2951,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+587.2,29.73,0.2973,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+587.2,29.61,0.2961,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+587.6,29.64,0.2964,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+589.3,29.3,0.293,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+593.7,29.74,0.2974,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+594.6,29.45,0.2945,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+595.8,29.72,0.2972,None kPa,N/A,19872,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+315.5,26.24,0.2624,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+315.6,26.42,0.2642,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+315.7,26.7,0.267,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+324.0,26.84,0.2684,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+325.9,26.26,0.2626,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+327.2,26.37,0.2637,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+327.5,26.83,0.2683,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+328.1,26.48,0.2648,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+335.4,26.64,0.2664,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+336.4,26.57,0.2657,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+336.4,26.38,0.2638,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+337.1,26.89,0.2689,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+337.2,26.93,0.2693,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+337.7,26.98,0.2698,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+345.0,26.65,0.2665,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+346.5,26.58,0.2658,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+346.8,27.0,0.27,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+347.1,26.88,0.2688,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+347.3,26.96,0.2696,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+347.5,26.93,0.2693,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+347.7,27.05,0.2705,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+348.2,26.64,0.2664,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+355.3,27.14,0.2714,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+356.0,26.95,0.2695,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+356.4,27.05,0.2705,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+357.3,26.59,0.2659,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+358.1,26.72,0.2672,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+364.9,27.23,0.2723,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+365.2,26.88,0.2688,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+365.2,27.15,0.2715,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+365.3,26.66,0.2666,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+365.8,26.79,0.2679,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+367.3,27.09,0.2709,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+374.8,26.81,0.2681,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+375.5,27.06,0.2706,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+375.7,26.95,0.2695,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+376.1,27.2,0.272,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+377.0,26.91,0.2691,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+378.5,27.24,0.2724,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+382.1,27.14,0.2714,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+386.1,27.23,0.2723,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+386.3,27.01,0.2701,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+387.1,26.88,0.2688,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+395.9,26.96,0.2696,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+396.2,27.29,0.2729,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+397.2,27.44,0.2744,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+398.2,27.07,0.2707,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+403.5,27.27,0.2727,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+406.2,27.18,0.2718,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+406.6,27.47,0.2747,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+407.9,27.03,0.2703,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+408.2,27.35,0.2735,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+416.3,27.25,0.2725,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+416.8,27.46,0.2746,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+416.9,27.17,0.2717,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+419.3,27.57,0.2757,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+422.2,27.43,0.2743,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+426.6,27.65,0.2765,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+426.7,27.55,0.2755,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+428.1,27.29,0.2729,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+436.8,27.62,0.2762,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+437.8,27.4,0.274,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+438.1,27.49,0.2749,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+438.4,27.79,0.2779,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+442.2,27.36,0.2736,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+446.5,27.87,0.2787,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+447.5,27.62,0.2762,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+448.1,27.82,0.2782,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+448.3,27.7,0.277,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+448.9,27.55,0.2755,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+455.2,27.69,0.2769,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+457.1,27.99,0.2799,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+458.8,27.76,0.2776,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+459.4,27.66,0.2766,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+462.9,27.69,0.2769,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+466.8,27.6,0.276,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+467.2,28.1,0.281,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+467.5,27.82,0.2782,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+468.2,27.86,0.2786,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+468.3,27.75,0.2775,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+475.7,27.81,0.2781,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+475.7,27.9,0.279,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+475.8,27.66,0.2766,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+478.3,28.2,0.282,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+481.4,27.86,0.2786,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+485.8,27.84,0.2784,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+486.8,28.28,0.2828,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+487.5,27.95,0.2795,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+495.3,28.33,0.2833,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+496.5,27.96,0.2796,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+496.7,28.23,0.2823,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+497.1,28.39,0.2839,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+499.8,28.03,0.2803,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+502.7,28.07,0.2807,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+506.7,28.21,0.2821,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+507.4,28.38,0.2838,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+507.5,28.17,0.2817,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+508.1,28.51,0.2851,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+509.5,28.41,0.2841,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+514.2,28.68,0.2868,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+516.5,28.36,0.2836,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+516.7,28.53,0.2853,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+517.4,28.21,0.2821,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+522.1,28.4,0.284,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+526.9,28.46,0.2846,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+527.1,28.63,0.2863,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+528.8,28.76,0.2876,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+529.1,28.7,0.287,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+529.2,28.55,0.2855,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+534.9,28.6,0.286,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+536.7,28.68,0.2868,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+537.6,28.85,0.2885,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+538.4,28.78,0.2878,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+543.2,28.65,0.2865,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+546.2,28.86,0.2886,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+547.2,28.96,0.2896,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+555.7,28.83,0.2883,None kPa,N/A,19873,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+588.6,28.77,0.2877,None kPa,N/A,19876,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+596.2,28.37,0.2837,None kPa,N/A,19876,['C'],A,Vacuum adiabatic calorimetry,"not stated,99.999 weight % (total),chemical analysis",99.999,Weight %,1971
+179.218,25.3202,0.253202,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+186.958,25.2978,0.252978,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+190.928,25.3851,0.253851,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+194.998,25.5577,0.255577,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+200.802,25.5405,0.255405,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+206.301,25.5712,0.255712,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+209.965,25.643,0.25643,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+215.566,25.6617,0.256617,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+224.831,25.7539,0.257539,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+229.616,25.7949,0.257949,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+236.133,25.812,0.25812,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+240.103,25.8837,0.258837,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+244.684,25.9606,0.259606,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+250.693,25.9281,0.259281,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+254.459,26.005,0.26005,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+260.875,25.9964,0.259964,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+264.336,26.0613,0.260613,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+275.229,26.1741,0.261741,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+280.83,26.1774,0.261774,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+286.125,26.1927,0.261927,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+290.909,26.2969,0.262969,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+296.51,26.2798,0.262798,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+301.703,26.3344,0.263344,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+306.692,26.3703,0.263703,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+312.19,26.3907,0.263907,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+316.364,26.4608,0.264608,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+327.259,26.5444,0.265444,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+333.674,26.5409,0.265409,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+337.237,26.6076,0.266076,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+343.04,26.652,0.26652,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+349.965,26.6604,0.266604,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+354.75,26.7357,0.267357,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+360.146,26.751,0.26751,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+365.032,26.8604,0.268604,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+371.448,26.8294,0.268294,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+380.916,26.9764,0.269764,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+386.923,26.9986,0.269986,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+391.301,27.0652,0.270652,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+396.901,27.0959,0.270959,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+402.196,27.1335,0.271335,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+407.082,27.2326,0.272326,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+413.497,27.2377,0.272377,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+419.2,27.241,0.27241,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+423.677,27.3829,0.273829,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+433.045,27.4443,0.274443,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+438.848,27.5041,0.275041,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+444.856,27.5262,0.275262,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+449.334,27.6425,0.276425,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+455.545,27.6561,0.276561,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+460.534,27.7193,0.277193,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+467.151,27.8013,0.278013,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+471.529,27.8697,0.278697,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+477.943,27.9158,0.279158,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+488.327,28.0558,0.280558,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+494.334,28.1293,0.281293,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+498.202,28.2199,0.282199,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+505.839,28.2386,0.282386,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+509.808,28.3566,0.283566,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+516.019,28.3856,0.283856,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+521.517,28.4334,0.284334,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+527.931,28.5085,0.285085,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+533.835,28.6402,0.286402,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+543.812,28.7785,0.287785,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+549.92,28.8468,0.288468,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+555.825,28.9306,0.289306,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+561.221,28.9801,0.289801,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+565.801,29.1185,0.291185,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+571.603,29.2057,0.292057,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+577.814,29.2689,0.292689,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+582.291,29.4296,0.294296,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+588.603,29.5065,0.295065,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
+598.679,29.7953,0.297953,None kPa,N/A,20590,['C'],A,Vacuum adiabatic calorimetry,"origin: commercial source,99.995 weight % (total),stated by supplier",99.995,Weight %,1972
