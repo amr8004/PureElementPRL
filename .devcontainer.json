@@ -1,0 +1,25 @@
+{
+    "image":  "mcr.microsoft.com/devcontainers/miniconda",
+    "customizations": {
+      "codespaces": {
+        "openFiles": [
+          "pycalphad/Lecture1.ipynb"
+        ]
+      },
+      "vscode": {
+        "extensions": [
+          "wijmo.gc-excelviewer",
+          "mechatroner.vscode_rainbow_csv",
+          "ms-python.python",
+          "ms-toolsai.jupyter",
+          "amkrajewski.tdb-highlighter"
+        ]
+      }
+    },
+    "hostRequirements": {
+       "cpus": 2,
+       "memory": "4gb",
+       "storage": "4gb"
+    },
+    "onCreateCommand": "conda install -y python=3.9.16 jupyter numpy && pip install Cython && pip install git+https://github.com/amr8004/ESPEI.git && pip install git+https://github.com/amr8004/pycalphad.git"
+}
