@@ -1,3 +1,5 @@
+# Ignore PEM_CALPHAD_CONFv2.ipynb so it is not tracked by git
+PEM_CALPHAD_CONFv2.ipynb
 # Ignore extra files
 *Extra.ipynb
 99BottlesOfElements/
