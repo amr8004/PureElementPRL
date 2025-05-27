@@ -4,7 +4,11 @@
 Jupyter notebook for modeling pure elements with selected models via python tools pycalphad and ESPEI
 
 ## Running Tutorial
-Creating a codespace should immediately open the desired notebook. Just change the element as desired (non-case sensitive) and set what SGTE structure (FCC_A1, BCC_A2, etc.) you would like to compare against.
+Creating a codespace should immediately open the desired notebook. Just change the element as desired (non-case sensitive) and set what SGTE structure (FCC_A1, BCC_A2, etc.) you would like to compare against. <br>
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/amr8004/PureElementPRL?quickstart=1)
+
+## Available Elements
+<img src="resources/elements_available.png" width="400"/>
 
 ## Further Resources
 pycalphad: https://pycalphad.org/ <br>
