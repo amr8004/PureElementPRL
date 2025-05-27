@@ -3,7 +3,7 @@
     "customizations": {
       "codespaces": {
         "openFiles": [
-          "pycalphad/Lecture1.ipynb"
+          "MCMC_Pure_Element.ipynb"
         ]
       },
       "vscode": {
