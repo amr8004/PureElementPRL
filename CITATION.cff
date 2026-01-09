@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Richter"
+    given-names: "Alexander"
+title: "PureElementPRL"
+version: 0.1.0
+date-released: 2026-01-09
+url: "https://github.com/amr8004/PureElementPRL"
+license: MIT
