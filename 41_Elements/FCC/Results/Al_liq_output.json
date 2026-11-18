@@ -1,0 +1,39 @@
+{
+  "DulongPetitLiquidE": [
+    0.00551704
+  ],
+  "KelleyLiquidE": [
+    38.19184717,
+    -0.00853935,
+    1000000.0
+  ],
+  "SGTELiquidE": [
+    100.0,
+    -0.10440086,
+    -4816885.52096475,
+    3.975e-05
+  ],
+  "EinsteinLinearLiquidE": [
+    0.17267358,
+    0.00551704,
+    0.0
+  ],
+  "EinsteinQuarticLiquidE": [
+    0.0,
+    0.00551703,
+    0.0
+  ],
+  "TwoStateLiquidE": [
+    2.34444761,
+    0.00592574,
+    -499.99894758,
+    1185.5085288,
+    42.30910612
+  ],
+  "AICC_DulongPetitLiquidE": 61.25662351875283,
+  "AICC_KelleyLiquidE": 142.15890943577935,
+  "AICC_SGTELiquidE": 156.38483774361245,
+  "AICC_EinsteinLinearLiquidE": 66.00925390667612,
+  "AICC_EinsteinQuarticLiquidE": 66.02250861237863,
+  "AICC_TwoStateLiquidE": 107.1404889826835
+}
